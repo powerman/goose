@@ -3,7 +3,7 @@ package main
 import (
 	"database/sql"
 
-	"github.com/powerman/goose"
+	"github.com/powerman/goose/v2"
 )
 
 func init() {

@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/powerman/goose"
+	"github.com/powerman/goose/v2"
 
 	_ "github.com/mattn/go-sqlite3"
 )
